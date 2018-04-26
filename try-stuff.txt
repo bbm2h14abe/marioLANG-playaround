@@ -18,4 +18,4 @@ MUL 4 8
 ===================#==
 load:
 
-LD 3 40 (load value 40 in register 3)
+
