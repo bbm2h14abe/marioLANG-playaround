@@ -8,14 +8,22 @@ Registers are positive numbers that indicate
 how far the memory pointer has to shift until
 it reaches it.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+load:
+
+LD 3 (todo)
+              +(((<
+                 ="      
+ >-[<        )))-[!    
+==================#======
+
 multiply:
 
-MUL 4 8
+MUL 8
 
-           ++++++++<
-           ========"
-    (++++)>    )-:[!
-===================#==
-load:
+      ++++++++<
+      ========"
+     >    )-:[!
+==============#==
+
 
 
