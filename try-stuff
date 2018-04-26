@@ -1,0 +1,21 @@
+Try stuff
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+word pool
+() +- .: ,; [ ! <> #" 
+
+The negative ptr space is used for indexing.
+Registers are positive numbers that indicate
+how far the memory pointer has to shift until
+it reaches it.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+multiply:
+
+MUL 4 8
+
+           ++++++++<
+           ========"
+    (++++)>    )-:[!
+===================#==
+load:
+
+LD 3 40 (load value 40 in register 3)
