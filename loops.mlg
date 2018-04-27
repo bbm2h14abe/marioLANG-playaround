@@ -1,4 +1,4 @@
- Two dimensional loop example
+1) Two dimensional loop example
                                :)<
           >======================"
                      inc
@@ -7,3 +7,14 @@
  outter    inner       check  check
 (+++++)   )+++++(     )-:[!( (-:[! ):! 
 ==========================#======#====
+
+
+2)Using downward elevators
+
+outter   inner     check check
+(+++++) )++++(>   )-:[!((-[! ):! 
+======="======"=======#====#====
+              ! +++++(<      
+              #======="      
+       !         inc     :)<
+       #===================" 
