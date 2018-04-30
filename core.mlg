@@ -3,3 +3,14 @@ One easy way to set memory location to zero.
        -<
 ++++ :>[^ :!
 ============
+
+
+Try to test even and odd (-1 = odd; -2 = even).
+
+          >
+          "====
++++++++   ! )@[   :-[@)-   
+==========#=-==========-
+           !:          :!
+           ==          ==
+          even         odd
