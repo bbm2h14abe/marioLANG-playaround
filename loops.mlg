@@ -22,15 +22,13 @@ outter   inner     check check
        
 3) Discovered randomly
 
-(>
+(>+
 +"+
++++
 +++
 +++
 ++(
 +)-
->![<
-=#==
-  >++:):!
-  =======
-
-Output: 1, 30
+>![< ):!
+=#======
+Outputs 54
